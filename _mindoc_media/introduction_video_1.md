@@ -3,6 +3,8 @@ page: introduction
 title: Video_№1_from_Introduction
 media_type: video
 
+_title: Red Cross Work on Mutilés, At Paris (1918)
+
 
 
 _path: /assets/img/video_1918.mp4 
