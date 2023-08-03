@@ -5,16 +5,14 @@ number: 002
 ---
 # Introduction
 
-**Lorem ipsum dolor sit amet, consectetur adipiscing elit.**[^1] Fusce eget condimentum ligula. Vivamus ultricies massa ac arcu ornare, sit amet pellentesque dolor consequat. Aliquam pellentesque ante nunc, ut sollicitudin arcu dapibus mattis. Nullam fermentum condimentum mi, et maximus nisl elementum a. Aenean ac tellus justo. Vivamus iaculis facilisis nunc, ac bibendum enim. Nullam eu convallis lacus. Fusce nulla ex, bibendum nec convallis et, rutrum in ipsum. Phasellus in elementum dolor. Fusce id iaculis dui, a lacinia nunc. In rhoncus fringilla nisi.
+In the closing stages of World War I, an American sculptor named Anna Coleman Ladd (above, right) created a special studio in Paris for the Red Cross.  There, she and her assistants made new faces for soldiers mutilated in combat.
 
-{% assign intro_images = site.mindoc_media | sort: "order" | where_exp: "item", "item.page == 'introduction'" | where_exp: "item", "item.media_type == 'image'" %}
-{% include media.html pages=intro_images %}
+In addition to supporting the studio, the Red Cross paid film crews to document the work done there.  This film has survived.  We present a full and verified copy of this film in digital form in this SourceLab edition, with accompanying critical commentary discussing the film's origin, preservation, and current location, as well as how it may be cited in scholarship.
 
-Ut scelerisque ultrices orci, nec egestas sem. Cras feugiat nulla eget efficitur tempus. Morbi at pulvinar odio. Duis tempus neque in efficitur iaculis. Nullam ornare erat ut elit convallis consectetur. Integer a pulvinar dolor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi semper mattis odio ac volutpat. Suspendisse placerat rhoncus ligula, in pretium turpis aliquam nec. Curabitur gravida pretium mauris, in vulputate mauris tristique in. Suspendisse id facilisis sem, et dapibus tortor. Sed nisl metus, commodo ornare tortor non, aliquam suscipit arcu.[^2]
+{% assign media = site.mindoc_media | sort: "order" | where_exp: "item", "item.page == 'introduction'" | where_exp: "item", "item.media_type == 'video'" %}
+{% include media.html pages=media %}
 
-Curabitur sed feugiat elit. Donec feugiat nisi volutpat magna venenatis volutpat. Fusce efficitur sapien dignissim, pretium dolor sit amet, placerat lectus. Quisque enim est, viverra ut sem id, eleifend imperdiet ipsum. Pellentesque imperdiet pretium dui, eu sodales quam iaculis id. Fusce tristique convallis hendrerit. Suspendisse id mauris est. Etiam accumsan nisl vel neque porttitor, nec finibus est vehicula. [^bignote] Aliquam quam sem, rutrum elementum tincidunt non, ultricies a urna. Sed commodo, magna sed dictum malesuada, nulla ligula efficitur nisl, sed condimentum mauris nisl non purus. Sed pulvinar maximus fringilla. Sed scelerisque imperdiet volutpat. Praesent ligula nisl, venenatis finibus pharetra at, luctus id neque. Proin a efficitur ex. Donec vitae enim quis arcu ullamcorper molestie.
+For comparison with the testimony this film provides, we also include a written [Supplemental Source](https://tonleon.github.io/Mindoc_Original_Prototype/006_supplements.html).  This is the article "The Men With New Faces,"  published in 1917 in the British literary magazine The Nineteenth Century and After.
 
-[^1]: trial footnote 
-[^2]: from this [website](https://www.lipsum.com/feed/html) 
-[^bignote]: BIG ONE
+This edition is a public prototype of a [proposed series](https://scalar.usc.edu/works/sourcelab_idea/index), intended for use by students and researchers.  We would greatly appreciate your comments and suggestions.  Please write us at SourceLab2015@gmail.com.
 
