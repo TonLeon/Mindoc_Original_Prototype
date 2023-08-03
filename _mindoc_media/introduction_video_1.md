@@ -4,7 +4,7 @@ title: Video_№1_from_Introduction
 media_type: video
 
 _title: Red Cross Work on Mutilés, At Paris (1918)
-description: Four-minute film of American sculptor Anna Coleman Ladd's studio in Paris where she made masks for men with facial wounds. From the National Museum of Health and Medicine. Red Cross Work on Mutiles, At Paris, 1918 [Master], 
+description: Four-minute film of American sculptor Anna Coleman Ladd's studio in Paris where she made masks for men with facial wounds. From the National Museum of Health and Medicine. Red Cross Work on Mutiles, At Paris, 1918 [Master]:
 creator: 
 _date: 1918
 rights: 
