@@ -8,13 +8,11 @@ number: 010
 
 ## Authors
 
-![image](path-to-image.jpg){: style="float: left"}
-
 Alison Marcotte, class of 2015, earned a bachelor's degree in journalism at the University of Illinois at Urbana-Champaign.
-
-![image](Mindoc_Original_Prototype/assets/img/Alex_Villanueva.jpeg){: style="float: left"}
-
 Alex Villanueva, class of 2017, is pursuing a bachelor's degree in history at the University of Illinois at Urbana-Champaign.
+
+{% assign media = site.mindoc_media | sort: "order" | where_exp: "item", "item.page == 'credits_and_acknowledgments'" | where_exp: "item", "item.media_type == 'image'" %} 
+{% include media.html pages=media %}
 
 ## Acknowledgements
 
