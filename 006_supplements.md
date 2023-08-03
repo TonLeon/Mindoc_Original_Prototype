@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Supplements
+title: Supplemental Source
 number: 006
 ---
 
