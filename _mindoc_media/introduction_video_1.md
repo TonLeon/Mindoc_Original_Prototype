@@ -16,7 +16,7 @@ format:
 credit_(IPTC):
 date_created_(IPTC):
 
-_path: /assets/img/video_1918.jpg 
+_path: /assets/img/video_1918.mp4 
 order: '01'
 layout: image_description
 ---
