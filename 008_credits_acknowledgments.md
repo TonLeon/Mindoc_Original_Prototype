@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Credits and Acknowledgments
+title: Credits
 number: 010 
 ---
 
