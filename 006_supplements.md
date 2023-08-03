@@ -4,7 +4,7 @@ title: Supplemental Source
 number: 006
 ---
 
-# Supplements
+# Supplemental Source
 
 In 1917, a hospital orderly named Ward Muir published a short article, "The Men With New Faces," in the British literary magazine *The Nineteenth Century and After*.  Muir's piece describes the work of the Masks for Facial Disfigurements Department of London's 3rd General Hospital. This written testimony may be compared and contrasted with what can be learned about facial reconstruction during the war from our film, "Red Cross Work on Mutilés, At Paris."
 
