@@ -8,9 +8,9 @@
             <img src="{% if element._path contains 'assets' %} {{ site.baseurl }}{{ element._path }} {% else %} {{ element._path }} {% endif %}" class="page_image">
             <div>
                 <div class="description-wrapper">
-                  <p>Title: {{ element._title }}<br>
-                  Creator: {{ element.creator }}<br>
-                  Date: {{ element._date }}</p>
+                  <p><span>Title:</span> {{ element._title }}<br>
+                  <span>Creator:</span> {{ element.creator }}<br>
+                  <span>Date:</span> {{ element._date }}</p>
                   <a href="{{ site.baseurl }}{{ element.url }}"><button class="description_btn">Detailed description</button></a>
                 </div>
             </div>
