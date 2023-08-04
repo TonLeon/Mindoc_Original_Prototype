@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;400&display=swap');
 // Basic
 
 body, html {
@@ -152,7 +151,13 @@ button:hover {
 
 p {
   font-family: "Oswald";
+  font-weight: 200;
   font-size: 21px;
+}
+
+span {
+  font-family: "Oswald";
+  font-weight: 400;
 }
 
 .search_result{
@@ -254,7 +259,7 @@ img.page_image{
   font-size: 25px;
   cursor: pointer;
   background-color: transparent;
-  color:#476345;  
+  color:#1F835C;  
   display: block;
   margin-left: auto;
   margin-right: auto;
