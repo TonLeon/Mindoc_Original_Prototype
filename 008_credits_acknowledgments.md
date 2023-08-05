@@ -8,7 +8,7 @@ number: 010
 
 ## Authors
 
-**Alison Marcotte** class of 2015, earned a bachelor's degree in journalism at the University of Illinois at Urbana-Champaign.
+**Alison Marcotte**, class of 2015, earned a bachelor's degree in journalism at the University of Illinois at Urbana-Champaign.
 
 **Alex Villanueva**, class of 2017, is pursuing a bachelor's degree in history at the University of Illinois at Urbana-Champaign.
 
