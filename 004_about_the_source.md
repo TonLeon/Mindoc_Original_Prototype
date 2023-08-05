@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Citation Guide
-number: 004
+number: 005
 ---
 
 To cite our edition in general, use the following styles.
