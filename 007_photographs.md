@@ -28,5 +28,7 @@ Mutilated French Soldier Without Mask
 
 Mutilated French Soldier Without Mask (Side View)
 
+{% assign media = site.mindoc_media | sort: "order" | where_exp: "item", "item.page == 'photographs'" | where_exp: "item", "item.media_type == 'image'" %} 
+{% include media.html pages=media %}
 
 
