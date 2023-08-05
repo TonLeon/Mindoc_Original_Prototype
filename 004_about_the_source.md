@@ -3,6 +3,7 @@ layout: default
 title: Citation Guide
 number: 004
 ---
+# Citation Guide
 
 To cite our edition in general, use the following styles.
 
