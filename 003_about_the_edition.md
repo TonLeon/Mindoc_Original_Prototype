@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Commentary
-number: 004
+number: 003
 ---
 
 # Commentary
