@@ -9,7 +9,7 @@ number: 007
 Throughout this edition, we have included supplementary images that show the work completed in Anna Coleman Ladd's studio.  These stills and photographs were also provided to SourceLab by the Otis Historical Archives, which also has a large collection of papers concerning Anna Coleman Ladd herself.
 Full titles and correction citation information for each item are included within the photographs.  Simply click on the ‘Details’ button within each frame, and look in the field marked "description."
  
-In addition (#head1234) to the photographs used throughout our edition, we are able to provide the following images for public use, thanks to the Otis Historical Archives:
+In addition to the photographs used throughout our edition, we are able to provide the following images for public use, thanks to the Otis Historical Archives:
  
  
 [Patient Shown Without a Mask](#head1234)
