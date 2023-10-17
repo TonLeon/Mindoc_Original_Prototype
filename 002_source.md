@@ -1,8 +1,3 @@
----
-layout: default
-title: The Film
-number: 002
----
 
 # The Film
 
