@@ -1,5 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;400&display=swap');
+
+// HERE ARE THE STYLISTIC PARAMETER THAT CAN BE CHANGED MANUALLY TO CUSTOMIZE THE WEBSITE
+
+.header_main{
+  color: white;
+  font-family: "Times"
+}
+
+h1.header_main{
+  font-size: 60px;
+}
+
+h2.header_main{
+  font-size: 36px;
+}
+
+
+
+// THE REST OF THE PARAMETERS THAT SHOULD NOT BE TOUCHED
 // Basic
 
 body, html {
@@ -27,18 +46,6 @@ header {
   bottom: 0;
   padding: 26.8rem 7.2rem 3.6rem 7.2rem;
   text-align: center;
-}
-
-.header_main{
-  color: white;
-}
-
-h1.header_main{
-  font-size: 60px;
-}
-
-h2.header_main{
-  font-size: 36px;
 }
 
 h1{
