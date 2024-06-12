@@ -3,17 +3,24 @@
 
 // HERE ARE THE STYLISTIC PARAMETER THAT CAN BE CHANGED MANUALLY TO CUSTOMIZE THE WEBSITE
 
+// Title page
+
 .header_main{
-  color: white;
-  font-family: "Times"
+  color: white; // to change the font color on the title page
+  font-family: "Times" // to change the font of the title page
 }
 
 h1.header_main{
-  font-size: 60px;
+  font-size: 60px; // to change the size of the font of the title
 }
 
 h2.header_main{
-  font-size: 36px;
+  font-size: 36px; // to change the size of the font of the sub-title
+}
+
+#btn {
+  color:white; // to change the color of the button "Start with Intro"
+  font-family: "Times"; // to change the font of the button "Start with Intro"
 }
 
 
@@ -132,9 +139,6 @@ button:hover {
   background-color: rgba(245, 246, 252, 0.52);
 }
 
-#btn {
-  color:white
-}
 
 // Search
 
