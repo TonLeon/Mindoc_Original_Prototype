@@ -29,15 +29,6 @@ h2.header_main{
 	font-family: "Times"; // to change the font of the side nabigation bar
 }
 
-// Header
-
-header {
-  font-family: "Calibri"; 
-  text-align: center;
-  padding-top: 15px;
-  background-color: white;
-}
-
 
 // Main content and links
 
@@ -52,6 +43,22 @@ a {
   text-decoration: none !important;
 }
 
+h1{
+	font-family: "Times"; // to change the font of the big headlines
+}
+
+h2{
+	font-family: "Calibri"; // to change the font of the medium headlines
+}
+
+h3{
+	font-family: "Monospaced"; // to change the font of the small headlines
+}
+
+body, html {
+	background-color: Yellow; // to change the website background
+}
+	
 
 // THE REST OF THE PARAMETERS THAT SHOULD NOT BE TOUCHED
 // Basic
@@ -59,7 +66,6 @@ a {
 body, html {
   height: 100%;
   margin: 0;
-  background-color: #566573;
 }
 
 
@@ -74,17 +80,14 @@ body, html {
   text-align: center;
 }
 
-h1{
-	font-family: "Oswald";
+// Header
+
+header {
+  text-align: center;
+  padding-top: 15px;
+  background-color: white;
 }
 
-h2{
-	font-family: "Oswald";
-}
-
-h3{
-	font-family: "Oswald";
-}
 
 // Navigation
   
@@ -200,10 +203,6 @@ span {
 .search_result{
   font-size: 24px;
   font-style: italic;
-}
-
-h1 {
-  font-family: "Oswald";
 }
 
 a.header {
