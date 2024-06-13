@@ -29,6 +29,30 @@ h2.header_main{
 	font-family: "Times"; // to change the font of the side nabigation bar
 }
 
+// Header
+
+header {
+  font-family: "Calibri"; 
+  text-align: center;
+  padding-top: 15px;
+  background-color: white;
+}
+
+
+// Main content and links
+
+p {
+  font-family: "Times"; // to change the font of the text
+  font-weight: 200;
+  font-size: 21px;
+}
+
+a {
+  color:Blue; // to change the color of the links
+  text-decoration: none !important;
+}
+
+
 // THE REST OF THE PARAMETERS THAT SHOULD NOT BE TOUCHED
 // Basic
 
@@ -38,15 +62,6 @@ body, html {
   background-color: #566573;
 }
 
-
-// Header
-
-header {
-  font-family: "Oswald"; 
-  text-align: center;
-  padding-top: 15px;
-  background-color: white;
-}
 
 // home page
 
@@ -176,11 +191,6 @@ button:hover {
 
 // Content
 
-p {
-  font-family: "Oswald";
-  font-weight: 200;
-  font-size: 21px;
-}
 
 span {
   font-family: "Oswald";
@@ -198,13 +208,6 @@ h1 {
 
 a.header {
   color:#9E2207;
-  font-family: "Oswald";  
-  text-decoration: none !important;
-}
-
-a {
-  color:#9E2207;
-  font-family: "Oswald";  
   text-decoration: none !important;
 }
 
